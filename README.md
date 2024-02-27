@@ -66,7 +66,11 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/12de31bc-efe5-468e-b300-92381a2d6c71)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/a2d17d87-ab45-4b9d-a999-cbb87a9f6d90)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/6cd09eda-6833-41eb-bf9f-8f25d5580894)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/19d37f6d-c10b-43b2-8f08-57e1aa41ff3e)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/f07ee377-a128-45e5-8a02-870e72216dd2)
 
 
 ## Result:
