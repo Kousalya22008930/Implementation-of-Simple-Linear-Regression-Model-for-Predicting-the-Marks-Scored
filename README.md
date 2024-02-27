@@ -71,6 +71,7 @@ print("RMSE = ",rmse)
 ![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/6cd09eda-6833-41eb-bf9f-8f25d5580894)
 ![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/19d37f6d-c10b-43b2-8f08-57e1aa41ff3e)
 ![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/f07ee377-a128-45e5-8a02-870e72216dd2)
+![image](https://github.com/Kousalya22008930/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119389108/6c95449f-3509-4afd-a3ab-3da0005063c7)
 
 
 ## Result:
