@@ -11,11 +11,11 @@ To write a program to predict the marks scored by a student using the simple lin
 ## step 1:
 Import pandas, numpy and sklearn.
 ## step 2:
-2.Calculate the values for the training data set
+Calculate the values for the training data set
 ## step 3:
-3.Calculate the values for the test data set.
+Calculate the values for the test data set.
 ## step 4:
-4.Plot the graph for both the data sets and calculate for MAE, MSE and RMSE.
+Plot the graph for both the data sets and calculate for MAE, MSE and RMSE.
 
 ## Program:
 ```
